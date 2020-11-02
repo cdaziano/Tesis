@@ -1,0 +1,4 @@
+git init
+git add Tesis01.txt
+git commit -m "Primer comentario"
+
