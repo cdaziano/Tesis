@@ -2,3 +2,10 @@ git init
 git add Tesis01.txt
 git commit -m "Primer comentario"
 
+git add . (agrega todo)
+git add Nueva\ Tesis01.txt (agrega nombres compuestos)
+
+git config --list --show-origin
+git config --global core.editor "'C:/Program Files/Notepad++/notepad++.exe' -multiInst -notabbar -nosession -noPlugin"
+
+git commit -a -m "Agrega todo"
